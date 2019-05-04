@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   date_end = "2017-09-30"
   description = """Responsibilites included:
   
-  *Processing of insurance and pension applications
-  *Advice for cross-border pension regulations
-  *Frequent advisory activities in France, e.g. Paris, Marseille, Strasbourg, Nantes"""
+  * Processing of insurance and pension applications
+  * Advice for cross-border pension regulations
+  * Frequent advisory activities in France, e.g. Paris, Marseille, Strasbourg, Nantes"""
 
 +++
