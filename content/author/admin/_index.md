@@ -12,8 +12,10 @@ superuser = true
 role = "PhD Candidate in Accounting"
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1",url=""}, {name="Org2", url=""} ]`.
+
+organizations = [ {name="Humboldt-University of Berlin", url="https://www.wiwi.hu-berlin.de/de/professuren/bwl/rwuwp/staff"}, {name="Berlin Doctoral program in Economics and Management Sciences (BDPEMS)", url="https://bdpems.wiwi.hu-berlin.de/portal/users/tobias-witter"} ]
+
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
