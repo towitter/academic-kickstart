@@ -81,6 +81,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I am Tobias. I am a PhD researcher at the School of Business and Economics at Humboldt-University of Berlin. I work as a research assistant at the Institute of Accounting and Auditing, Chair of Joachim Gassen. I started my PhD in 2017. Before that, I worked as a lecturer at Beuth University and consultant at the German statutory pension insurance scheme.
+Hi, I am Tobias. I am a PhD researcher at Humboldt-University of Berlin. I work as a research assistant at the Institute of Accounting and Auditing at the chair of Joachim Gassen. Before that, I worked as a lecturer at Beuth University of Applied Sciences and advisor and caseworker at the German statutory pension insurance scheme.
 
-My research focuses on determinants of transparency and interactions of financial market participants and its impact on transparency. I am especially interested in firm-government interactions and how they influence the output and transparency of both firms and governments.
+My research interests include interactions of firms and government agencies, and its consequences for investment and transparency. More broadly, I am interested in the way a firm's environment promotes or prevents firm transparency.
