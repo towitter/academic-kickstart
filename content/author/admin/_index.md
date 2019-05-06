@@ -1,7 +1,7 @@
 +++
 # Display name
 name = "Tobias Witter"
-
+tags = ["Tobias Witter", "Tobias Witter Personal Webpage"]
 # Username (this should match the folder name)
 authors = ["admin"]
 
@@ -18,7 +18,7 @@ organizations = [ {name="Humboldt-University of Berlin", url="https://www.wiwi.h
 
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include firm and government transparency and determinants of that transparency."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""

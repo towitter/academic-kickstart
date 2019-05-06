@@ -7,6 +7,7 @@ weight = 100  # Order that this section will appear.
 
 title = "Contact"
 subtitle = ""
+tags = ["Tobias Witter", "Tobias Witter Personal Webpage", "Tobias Witter Contact"]
 
 # Automatically link email and phone?
 autolink = true

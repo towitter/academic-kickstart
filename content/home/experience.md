@@ -7,6 +7,7 @@ weight = 20  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
+tags = ["Tobias Witter", "Tobias Witter Personal Webpage", "Tobias Witter Experience"]
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

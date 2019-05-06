@@ -6,6 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = "About me"
+tags = ["Tobias Witter", "Tobias Witter Personal Webpage", "Tobias Witter About", "Tobias Witter Bio", "Tobias Witter Biography"]
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/author/` folder.

@@ -9,6 +9,7 @@ weight = 30  # Order that this section will appear.
 
 title = "Recent Blog Posts"
 subtitle = ""
+tags = ["Tobias Witter", "Tobias Witter Personal Webpage", "Tobias Witter Blog"]
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
