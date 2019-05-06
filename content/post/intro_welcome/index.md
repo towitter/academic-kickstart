@@ -17,9 +17,7 @@ featured = false
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Tobias Witter", "Tobias Witter Personal Webpage", "Tobias Witter Webpage"]
-categories = [tags = ["Tobias Witter", "Tobias Witter Personal Webpage"]
-]
+categories = ["Tobias Witter", "Tobias Witter Personal Webpage"]
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
