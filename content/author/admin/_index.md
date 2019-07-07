@@ -1,7 +1,7 @@
 +++
 # Display name
 name = "Tobias Witter"
-tags = ["Tobias Witter", "Tobias Witter Personal Webpage"]
+tags = ["Tobias Witter", "Tobias Witter - PhD Candidate in Accounting"]
 # Username (this should match the folder name)
 authors = ["admin"]
 
@@ -27,7 +27,7 @@ email = ""
 interests = [
   "Accounting Research",
   "R Programming",
-  "Scuba Diving"
+  "Sports, esp. Running & Scuba Diving"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -43,12 +43,12 @@ user_groups = ["Researchers", "Visitors"]
   year = 2015
 
 [[education.courses]]
-  course = "Exchange Student (Erasmus), Master of International Business Management"
+  course = "Exchange Student (Erasmus), Master in International Business Management"
   institution = "IAE Gustave Eiffel Management School, Paris"
   year = 2014
 
 [[education.courses]]
-  course = "Bachelor of Arts Public Administration"
+  course = "Bachelor of Arts in Public Administration"
   institution = "Federal University of Applied Administrative Sciences, Berlin"
   year = 2013
 
@@ -62,10 +62,10 @@ user_groups = ["Researchers", "Visitors"]
 #  icon_pack = "fab"
 #  link = "https://twitter.com/GeorgeCushen"
 
-#[[social]]
-#  icon = "google-scholar"
-#  icon_pack = "ai"
-#  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.de/citations?user=8OJEBWoAAAAJ&hl=de"
 
 [[social]]
   icon = "github"
@@ -81,8 +81,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hi, I am Tobias. I am a PhD researcher at Humboldt-University of Berlin. I work as a research assistant at the Institute of Accounting and Auditing at the chair of Joachim Gassen. Before that, I worked as a lecturer at Beuth University of Applied Sciences and advisor and caseworker at the German statutory pension insurance scheme.
+Hi, I am Tobias. I am a PhD researcher at Humboldt-University of Berlin. I work as a research assistant at the Institute of Accounting and Auditing at the chair of Joachim Gassen. Before that, I worked as a lecturer at Beuth University of Applied Sciences and as an advisor and caseworker at the German statutory pension insurance scheme.
 
-I completed the course work of the Berlin Doctoral Program of Economics and Management Science in April 2019. Completed courses include Advanced Microeconomics, Advanced Econometrics, Financial Economics, and Experimental Research and Behavioral Decision-Making.
+I completed the course work of the Berlin Doctoral Program of Economics and Management Science in June 2019. Completed courses include Advanced Microeconomics, Advanced Econometrics, Financial Economics, Quantative Empirical Accountin Research, and Experimental Research and Behavioral Decision-Making.
 
-Currently, I am in the research stage of my PhD studies. My research interests include interactions of firms and government agencies, and its consequences for investment and transparency. More broadly, I am interested in the way a firm's environment promotes or prevents firm transparency.
+Currently, I am in the research stage of my PhD studies. My research interests include interactions of companies and government agencies, and its consequences for investment and transparency. More broadly, I am interested in the way a company's environment promotes or prevents firm transparency.
